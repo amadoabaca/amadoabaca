@@ -23,7 +23,7 @@ const amado = {
 };
 ```
 
-<p align="center">
+<p align="center" font-weight="600">
 Check out my repos ⬇️  
 </p>
 
